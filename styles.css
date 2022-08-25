@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 30px 0;
+	min-height: calc(100vh - 60px);
+}
+
+img {
+	max-width: 100%;
+	
+}
+
+p {
+	margin-bottom: 5px;
+}
+
+h3 {
+	margin: 0;
+}
+
+h5 {
+	margin: 10px 0;
+}
+
+li {
+	margin-bottom: 0;
+}
+
+.meal {
+	margin: 20px 0;
+}
+
+.text-center {
+	text-align: center;
+}
+
+html{
+	background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(209,29,135,1) 35%, rgba(214,0,255,1) 100%);
+	color: white;
+}
+
+
